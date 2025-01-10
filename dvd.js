@@ -5,8 +5,8 @@ let ctx;
 let dvdColor;
 
 let dvd = {
-    x: 200,
-    y: 300,
+    x: 400,
+    y: 600,
     xspeed: 10,
     yspeed: 10,
     img: new Image()
